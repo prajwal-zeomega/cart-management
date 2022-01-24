@@ -1,0 +1,3 @@
+*Initial my webpage shows the avalable items
+*Each item have add button to store item in cart 
+*After store on cart, click on checkout button, it will show total price of your selected items
